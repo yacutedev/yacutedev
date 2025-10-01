@@ -48,6 +48,7 @@
 ## 🔗 Contact Me  
 📧 [yacutedev@gmail.com](mailto:yacutedev@gmail.com)  
 💬 [Telegram](https://t.me/eva_egorova)  
+🌐 [Portfolio / Personal Website](https://yacutedev.github.io/Portfolio/)
 
 ---
 
